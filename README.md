@@ -1,4 +1,15 @@
-### Hi there 👋
+### Jimmy neutron 👋
+💌 Email : qny123@naver.com
+
+⚒ Tech
+
+  
+ <img src="https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=JS&logoColor=black">
+ <img src="https://img.shields.io/badge/typescript-0000CD?style=for-the-badge&logo=JS&logoColor=black">
+  <img src="https://img.shields.io/badge/recoil-6495ED?style=for-the-badge&logo=JS&logoColor=black">
+   <img src="https://img.shields.io/badge/react-87CEEB?style=for-the-badge&logo=JS&logoColor=black">
+
+ 
 
 <!--
 **dlwnstjrzz/dlwnstjrzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
